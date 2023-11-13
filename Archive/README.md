@@ -1,2 +1,2 @@
-dataset_ufo
-This repo is used for the UFO data that was utilized in my classwork during undergraduate studies.
+The archive folder is used for storing in process data, that
+needs to be retained, but is not part of the actual dataset.
